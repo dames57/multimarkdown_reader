@@ -5,7 +5,7 @@ Based on code from [pandoc_reader](https://github.com/liob/pandoc_reader).
 
 Installation
 ------------
-Instructions for installation of pelican plugins can be obtained from the [pelican plugin manual](https://github.com/getpelican/pelican-plugins/blob/master/Readme.rst).
+Instructions on installing pelican plugins can be found in the [pelican plugin manual](https://github.com/getpelican/pelican-plugins/blob/master/Readme.rst).
 
 Contributing
 ------------
