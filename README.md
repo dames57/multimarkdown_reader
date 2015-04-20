@@ -1,7 +1,11 @@
 # multimarkdown_reader
-A [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) reader plugin for the [Pelican static site generator](http://docs.getpelican.com/en/3.5.0/).
+A [MultiMarkdown] reader plugin for the [Pelican static site generator](http://docs.getpelican.com/en/3.5.0/).
 
 Based on code from [pandoc_reader](https://github.com/liob/pandoc_reader).
+
+Requirements
+------------
+[MultiMarkdown] in $PATH
 
 Installation
 ------------
@@ -14,3 +18,5 @@ Contributing
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create new Pull Request
+
+[MultiMarkdown]:http://fletcherpenney.net/multimarkdown/
